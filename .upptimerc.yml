@@ -24,5 +24,6 @@ status-website:
     - title: Pinbus.com
       href: https://pinbus.com
   theme: dark
+  favicon: https://tiquetes.pinbus.pe/assets/img/favicon.png
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
