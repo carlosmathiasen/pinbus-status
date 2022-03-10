@@ -22,19 +22,19 @@
     "url": "https://pinbus.com",
     "icon": "https://favicons.githubusercontent.com/pinbus.com",
     "slug": "page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 506,
-    "timeDay": 506,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "61.80%",
+    "uptimeDay": "61.80%",
+    "uptimeWeek": "61.80%",
+    "uptimeMonth": "61.80%",
+    "uptimeYear": "61.80%",
+    "time": 509,
+    "timeDay": 509,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-03-10": 0
+      "2022-03-10": 457
     }
   }
 ]
