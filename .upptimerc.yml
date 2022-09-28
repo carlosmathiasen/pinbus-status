@@ -5,8 +5,12 @@ repo: pinbus-status # The name of this repository
 sites:
   - name: API
     url: https://api.pinbus.com
-  - name: Page
+  - name: API Conexiones
+    url: https://api-conexiones.pinbus.com    
+  - name: Page Colombia
     url: https://pinbus.com
+  - name: Page Peru
+    url: https://pinbus.pe    
 
 
 status-website:
