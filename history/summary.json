@@ -45,18 +45,20 @@
     "url": "https://pinbus.com",
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.com.ico",
     "slug": "page-colombia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 427,
-    "timeWeek": 469,
-    "timeMonth": 418,
+    "timeDay": 405,
+    "timeWeek": 458,
+    "timeMonth": 417,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 0
+    }
   },
   {
     "name": "Page Peru",
