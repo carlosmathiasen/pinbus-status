@@ -66,19 +66,19 @@
     "url": "https://pinbus.pe",
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 501,
-    "timeDay": 403,
-    "timeWeek": 443,
-    "timeMonth": 541,
+    "timeDay": 426,
+    "timeWeek": 446,
+    "timeMonth": 539,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 12
     }
   }
 ]
