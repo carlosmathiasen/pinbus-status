@@ -46,14 +46,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.com.ico",
     "slug": "page-colombia",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 401,
     "timeDay": 234,
-    "timeWeek": 353,
+    "timeWeek": 389,
     "timeMonth": 405,
     "timeYear": 401,
     "dailyMinutesDown": {
@@ -66,17 +66,19 @@
     "url": "https://pinbus.pe",
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 429,
-    "timeWeek": 452,
-    "timeMonth": 546,
-    "timeYear": 502,
-    "dailyMinutesDown": {}
+    "time": 501,
+    "timeDay": 403,
+    "timeWeek": 443,
+    "timeMonth": 541,
+    "timeYear": 501,
+    "dailyMinutesDown": {
+      "2023-01-13": 0
+    }
   }
 ]
