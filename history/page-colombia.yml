@@ -1,7 +1,7 @@
 url: https://pinbus.com
-status: down
-code: 503
-responseTime: 190
-lastUpdated: 2024-02-03T06:07:56.506Z
+status: up
+code: 200
+responseTime: 535
+lastUpdated: 2024-02-03T06:25:22.886Z
 startTime: 2022-09-28T16:35:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
