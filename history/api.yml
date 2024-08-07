@@ -1,7 +1,7 @@
 url: https://api.pinbus.com
-status: down
-code: 502
-responseTime: 498
-lastUpdated: 2024-08-07T09:32:30.709Z
+status: up
+code: 200
+responseTime: 544
+lastUpdated: 2024-08-07T09:43:49.341Z
 startTime: 2022-03-09T17:09:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
