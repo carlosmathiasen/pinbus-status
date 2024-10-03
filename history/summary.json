@@ -11,10 +11,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 473,
-    "timeDay": 555,
-    "timeWeek": 463,
-    "timeMonth": 439,
-    "timeYear": 479,
+    "timeDay": 628,
+    "timeWeek": 507,
+    "timeMonth": 450,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2024-09-28": 26,
       "2024-09-11": 34,
@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "38.84%",
+    "uptime": "38.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 36,
+      "2024-10-03": 36,
+      "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -424,8 +425,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440
+      "2023-10-05": 1440
     }
   },
   {
@@ -435,14 +435,14 @@
     "slug": "page-colombia",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "97.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 496,
-    "timeDay": 609,
-    "timeWeek": 804,
-    "timeMonth": 1155,
+    "timeDay": 535,
+    "timeWeek": 779,
+    "timeMonth": 1160,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2024-10-01": 29,
@@ -489,10 +489,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 693,
-    "timeWeek": 515,
-    "timeMonth": 444,
+    "time": 420,
+    "timeDay": 314,
+    "timeWeek": 485,
+    "timeMonth": 446,
     "timeYear": 417,
     "dailyMinutesDown": {}
   }
