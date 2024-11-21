@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
     "time": 470,
-    "timeDay": 314,
-    "timeWeek": 358,
-    "timeMonth": 406,
+    "timeDay": 402,
+    "timeWeek": 373,
+    "timeMonth": 407,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2024-10-29": 84,
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "36.41%",
+    "uptime": "36.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 376,
+    "time": 371,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-20": 38,
+      "2024-11-21": 38,
+      "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -426,8 +427,7 @@
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
-      "2023-11-23": 1440,
-      "2023-11-22": 1440
+      "2023-11-23": 1440
     }
   },
   {
@@ -442,9 +442,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 528,
-    "timeDay": 4465,
-    "timeWeek": 1172,
-    "timeMonth": 842,
+    "timeDay": 461,
+    "timeWeek": 1179,
+    "timeMonth": 845,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-10-05": 25,
@@ -491,10 +491,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 322,
-    "timeWeek": 402,
-    "timeMonth": 447,
+    "time": 421,
+    "timeDay": 323,
+    "timeWeek": 404,
+    "timeMonth": 441,
     "timeYear": 424,
     "dailyMinutesDown": {}
   }
