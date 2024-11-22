@@ -1,7 +1,7 @@
 url: https://pinbus.pe
-status: up
-code: 200
-responseTime: 489
-lastUpdated: 2024-11-21T23:21:13.722Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2024-11-22T04:29:28.100Z
 startTime: 2022-09-28T16:35:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
