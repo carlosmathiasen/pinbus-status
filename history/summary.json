@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 39,
+      "2024-11-22": 270,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -485,17 +485,19 @@
     "url": "https://pinbus.pe",
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 489,
-    "timeWeek": 393,
-    "timeMonth": 448,
+    "timeDay": 367,
+    "timeWeek": 374,
+    "timeMonth": 441,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   }
 ]
