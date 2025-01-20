@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 470,
-    "timeDay": 494,
-    "timeWeek": 358,
-    "timeMonth": 399,
+    "timeDay": 257,
+    "timeWeek": 360,
+    "timeMonth": 396,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-29": 84,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "33.82%",
+    "uptime": "33.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 39,
+      "2025-01-20": 37,
+      "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -426,8 +427,7 @@
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
-      "2024-01-22": 1440,
-      "2024-01-21": 1440
+      "2024-01-22": 1440
     }
   },
   {
@@ -442,9 +442,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 558,
-    "timeDay": 748,
-    "timeWeek": 676,
-    "timeMonth": 716,
+    "timeDay": 492,
+    "timeWeek": 671,
+    "timeMonth": 713,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2024-10-05": 25,
@@ -475,8 +475,7 @@
       "2024-02-06": 16,
       "2024-02-03": 17,
       "2024-01-28": 15,
-      "2024-01-26": 19,
-      "2024-01-21": 21
+      "2024-01-26": 19
     }
   },
   {
@@ -485,18 +484,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "92.36%",
+    "uptime": "92.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.15%",
+    "uptimeYear": "83.88%",
     "time": 405,
-    "timeDay": 330,
-    "timeWeek": 290,
-    "timeMonth": 295,
+    "timeDay": 234,
+    "timeWeek": 291,
+    "timeMonth": 294,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-01-19": 39,
+      "2025-01-20": 37,
+      "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
