@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 469,
-    "timeDay": 333,
-    "timeWeek": 376,
-    "timeMonth": 393,
+    "timeDay": 282,
+    "timeWeek": 379,
+    "timeMonth": 388,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-29": 84,
@@ -42,8 +42,7 @@
       "2024-03-05": 19,
       "2024-02-29": 19,
       "2024-02-28": 20,
-      "2024-02-27": 24,
-      "2024-01-28": 15
+      "2024-02-27": 24
     }
   },
   {
@@ -52,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "33.54%",
+    "uptime": "33.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 37,
+      "2025-01-27": 38,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -426,8 +426,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -442,10 +441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 562,
-    "timeDay": 498,
-    "timeWeek": 730,
-    "timeMonth": 721,
-    "timeYear": 620,
+    "timeDay": 473,
+    "timeWeek": 727,
+    "timeMonth": 709,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2024-10-05": 25,
       "2024-10-01": 29,
@@ -473,8 +472,7 @@
       "2024-02-11": 17,
       "2024-02-09": 17,
       "2024-02-06": 16,
-      "2024-02-03": 17,
-      "2024-01-28": 15
+      "2024-02-03": 17
     }
   },
   {
@@ -483,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "91.60%",
+    "uptime": "91.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.24%",
-    "time": 403,
-    "timeDay": 271,
-    "timeWeek": 269,
-    "timeMonth": 281,
+    "uptimeYear": "81.96%",
+    "time": 402,
+    "timeDay": 229,
+    "timeWeek": 268,
+    "timeMonth": 278,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2025-01-26": 37,
+      "2025-01-27": 38,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
