@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 467,
-    "timeDay": 413,
-    "timeWeek": 409,
-    "timeMonth": 405,
-    "timeYear": 478,
+    "timeDay": 366,
+    "timeWeek": 388,
+    "timeMonth": 408,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-29": 84,
       "2024-10-16": 18,
@@ -40,8 +40,7 @@
       "2024-03-20": 17,
       "2024-03-19": 15,
       "2024-03-05": 19,
-      "2024-02-29": 19,
-      "2024-02-28": 20
+      "2024-02-29": 19
     }
   },
   {
@@ -50,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "32.36%",
+    "uptime": "32.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-26": 38,
+      "2025-02-27": 38,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -424,8 +424,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -440,10 +439,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 579,
-    "timeDay": 714,
-    "timeWeek": 790,
-    "timeMonth": 747,
-    "timeYear": 653,
+    "timeDay": 652,
+    "timeWeek": 732,
+    "timeMonth": 752,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-02-12": 38,
       "2024-10-05": 25,
@@ -466,8 +465,7 @@
       "2024-03-16": 16,
       "2024-03-07": 17,
       "2024-03-05": 19,
-      "2024-02-29": 19,
-      "2024-02-28": 20
+      "2024-02-29": 19
     }
   },
   {
@@ -476,18 +474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "88.38%",
+    "uptime": "88.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.74%",
+    "uptimeYear": "73.47%",
     "time": 396,
-    "timeDay": 275,
+    "timeDay": 310,
     "timeWeek": 287,
-    "timeMonth": 284,
+    "timeMonth": 286,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-02-26": 38,
+      "2025-02-27": 38,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
