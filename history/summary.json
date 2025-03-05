@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 467,
-    "timeDay": 507,
-    "timeWeek": 418,
-    "timeMonth": 415,
+    "timeDay": 481,
+    "timeWeek": 428,
+    "timeMonth": 417,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2024-10-29": 84,
@@ -38,8 +38,7 @@
       "2024-04-22": 16,
       "2024-03-31": 18,
       "2024-03-20": 17,
-      "2024-03-19": 15,
-      "2024-03-05": 19
+      "2024-03-19": 15
     }
   },
   {
@@ -48,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "32.14%",
+    "uptime": "32.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -59,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-04": 39,
+      "2025-03-05": 39,
+      "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -422,8 +422,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 1440
+      "2024-03-06": 1440
     }
   },
   {
@@ -437,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 580,
-    "timeDay": 719,
-    "timeWeek": 666,
-    "timeMonth": 756,
-    "timeYear": 662,
+    "time": 581,
+    "timeDay": 626,
+    "timeWeek": 653,
+    "timeMonth": 720,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2025-02-12": 38,
       "2024-10-05": 25,
@@ -462,8 +461,7 @@
       "2024-04-04": 18,
       "2024-04-02": 18,
       "2024-03-16": 16,
-      "2024-03-07": 17,
-      "2024-03-05": 19
+      "2024-03-07": 17
     }
   },
   {
@@ -472,18 +470,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "87.78%",
+    "uptime": "87.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "72.10%",
+    "uptimeYear": "71.82%",
     "time": 395,
-    "timeDay": 324,
-    "timeWeek": 291,
-    "timeMonth": 286,
+    "timeDay": 283,
+    "timeWeek": 292,
+    "timeMonth": 284,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-03-04": 39,
+      "2025-03-05": 39,
+      "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
