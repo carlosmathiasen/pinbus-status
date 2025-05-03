@@ -6,17 +6,18 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 486,
     "timeDay": 1023,
     "timeWeek": 1498,
     "timeMonth": 795,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-05-02": 0,
+      "2025-05-03": 41,
+      "2025-05-02": 9,
       "2024-10-29": 84,
       "2024-10-16": 18,
       "2024-10-09": 17,
@@ -34,8 +35,7 @@
       "2024-06-20": 19,
       "2024-06-11": 16,
       "2024-05-13": 22,
-      "2024-05-05": 24,
-      "2024-05-03": 24
+      "2024-05-05": 24
     }
   },
   {
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "30.11%",
+    "uptime": "30.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1431,
+      "2025-05-03": 41,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -418,8 +419,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -462,18 +462,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "82.23%",
+    "uptime": "82.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.67%",
+    "uptimeYear": "55.66%",
     "time": 382,
     "timeDay": 255,
     "timeWeek": 293,
     "timeMonth": 301,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-05-02": 1431,
+      "2025-05-03": 41,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
