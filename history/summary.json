@@ -6,15 +6,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
-    "time": 610,
-    "timeDay": 720,
-    "timeWeek": 1105,
-    "timeMonth": 1456,
-    "timeYear": 638,
+    "time": 611,
+    "timeDay": 1053,
+    "timeWeek": 1041,
+    "timeMonth": 1452,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2025-07-11": 24,
       "2025-06-04": 25,
@@ -29,8 +29,7 @@
       "2024-08-25": 23,
       "2024-08-23": 24,
       "2024-08-22": 24,
-      "2024-07-29": 23,
-      "2024-07-13": 23
+      "2024-07-29": 23
     }
   },
   {
@@ -39,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "28.03%",
+    "uptime": "28.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -50,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 47,
+      "2025-07-13": 52,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -413,8 +413,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -428,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 711,
-    "timeDay": 1072,
-    "timeWeek": 838,
-    "timeMonth": 759,
-    "timeYear": 780,
+    "time": 712,
+    "timeDay": 789,
+    "timeWeek": 827,
+    "timeMonth": 753,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2025-02-12": 38,
       "2024-10-05": 25,
@@ -441,8 +440,7 @@
       "2024-08-10": 22,
       "2024-07-29": 23,
       "2024-07-28": 21,
-      "2024-07-17": 23,
-      "2024-07-13": 23
+      "2024-07-17": 23
     }
   },
   {
@@ -451,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "76.57%",
+    "uptime": "76.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.48%",
-    "time": 370,
-    "timeDay": 344,
-    "timeWeek": 303,
-    "timeMonth": 306,
-    "timeYear": 350,
+    "uptimeYear": "36.21%",
+    "time": 369,
+    "timeDay": 302,
+    "timeWeek": 296,
+    "timeMonth": 305,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-07-12": 47,
+      "2025-07-13": 53,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
