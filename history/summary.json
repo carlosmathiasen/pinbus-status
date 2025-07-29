@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
-    "time": 640,
-    "timeDay": 1249,
-    "timeWeek": 1372,
-    "timeMonth": 1247,
-    "timeYear": 678,
+    "time": 641,
+    "timeDay": 987,
+    "timeWeek": 1387,
+    "timeMonth": 1249,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2025-07-15": 20,
       "2025-07-11": 24,
@@ -29,8 +29,7 @@
       "2024-08-26": 26,
       "2024-08-25": 23,
       "2024-08-23": 24,
-      "2024-08-22": 24,
-      "2024-07-29": 23
+      "2024-08-22": 24
     }
   },
   {
@@ -39,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "27.60%",
+    "uptime": "27.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -50,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-28": 53,
+      "2025-07-29": 54,
+      "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -413,8 +413,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
-      "2024-07-30": 1440,
-      "2024-07-29": 1440
+      "2024-07-30": 1440
     }
   },
   {
@@ -427,19 +426,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 725,
-    "timeDay": 1234,
-    "timeWeek": 921,
-    "timeMonth": 787,
-    "timeYear": 789,
+    "uptimeYear": "99.97%",
+    "time": 726,
+    "timeDay": 789,
+    "timeWeek": 906,
+    "timeMonth": 781,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2025-02-12": 38,
       "2024-10-05": 25,
       "2024-10-01": 29,
       "2024-09-10": 26,
-      "2024-08-10": 22,
-      "2024-07-29": 23
+      "2024-08-10": 22
     }
   },
   {
@@ -448,18 +446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "75.38%",
+    "uptime": "75.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "32.10%",
+    "uptimeYear": "31.82%",
     "time": 367,
-    "timeDay": 235,
-    "timeWeek": 282,
-    "timeMonth": 316,
+    "timeDay": 325,
+    "timeWeek": 287,
+    "timeMonth": 315,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-07-28": 53,
+      "2025-07-29": 54,
+      "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
