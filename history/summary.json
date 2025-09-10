@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 703,
-    "timeDay": 1342,
-    "timeWeek": 1070,
-    "timeMonth": 1094,
-    "timeYear": 772,
+    "time": 704,
+    "timeDay": 1054,
+    "timeWeek": 1094,
+    "timeMonth": 1087,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-08-26": 21,
       "2025-07-15": 20,
@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "26.50%",
+    "uptime": "26.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 41,
+      "2025-09-10": 39,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -409,8 +410,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
@@ -425,15 +425,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 762,
-    "timeDay": 939,
-    "timeWeek": 931,
-    "timeMonth": 902,
+    "timeDay": 567,
+    "timeWeek": 908,
+    "timeMonth": 905,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2025-02-12": 38,
       "2024-10-05": 25,
-      "2024-10-01": 29,
-      "2024-09-10": 26
+      "2024-10-01": 29
     }
   },
   {
@@ -442,18 +441,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "72.37%",
+    "uptime": "72.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.32%",
+    "uptimeYear": "20.04%",
     "time": 362,
-    "timeDay": 292,
-    "timeWeek": 327,
-    "timeMonth": 386,
+    "timeDay": 318,
+    "timeWeek": 326,
+    "timeMonth": 388,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2025-09-09": 41,
+      "2025-09-10": 39,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
