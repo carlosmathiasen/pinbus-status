@@ -11,10 +11,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 759,
-    "timeDay": 585,
-    "timeWeek": 603,
-    "timeMonth": 948,
-    "timeYear": 846,
+    "timeDay": 468,
+    "timeWeek": 591,
+    "timeMonth": 922,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2025-10-25": 23,
       "2025-10-23": 43,
@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 1276,
+      "2025-10-26": 45,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -409,8 +410,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 776,
-    "timeDay": 430,
-    "timeWeek": 642,
-    "timeMonth": 635,
-    "timeYear": 769,
+    "timeDay": 598,
+    "timeWeek": 676,
+    "timeMonth": 636,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-02-12": 38
     }
@@ -439,18 +439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "69.35%",
+    "uptime": "69.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.48%",
+    "uptimeYear": "7.44%",
     "time": 351,
-    "timeDay": 269,
-    "timeWeek": 294,
-    "timeMonth": 298,
-    "timeYear": 321,
+    "timeDay": 294,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-10-25": 1276,
+      "2025-10-26": 45,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
