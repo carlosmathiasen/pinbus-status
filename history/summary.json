@@ -11,9 +11,9 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.90%",
     "time": 777,
-    "timeDay": 867,
-    "timeWeek": 597,
-    "timeMonth": 679,
+    "timeDay": 582,
+    "timeWeek": 594,
+    "timeMonth": 677,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2025-11-18": 137,
@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "24.79%",
+    "uptime": "24.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -48,7 +48,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 41,
+      "2025-11-23": 51,
+      "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -411,8 +412,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   },
   {
@@ -426,10 +426,10 @@
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.96%",
-    "time": 766,
-    "timeDay": 677,
-    "timeWeek": 558,
-    "timeMonth": 648,
+    "time": 768,
+    "timeDay": 775,
+    "timeWeek": 564,
+    "timeMonth": 629,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2025-11-18": 150,
@@ -443,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "67.71%",
+    "uptime": "67.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.04%",
+    "uptimeYear": "0.00%",
     "time": 345,
-    "timeDay": 240,
-    "timeWeek": 288,
-    "timeMonth": 315,
+    "timeDay": 257,
+    "timeWeek": 287,
+    "timeMonth": 314,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-11-22": 41,
+      "2025-11-23": 51,
+      "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -817,8 +818,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   }
 ]
