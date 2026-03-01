@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
-    "time": 764,
-    "timeDay": 605,
-    "timeWeek": 650,
-    "timeMonth": 640,
-    "timeYear": 913,
+    "time": 765,
+    "timeDay": 579,
+    "timeWeek": 630,
+    "timeMonth": 635,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2026-02-07": 36,
       "2026-01-21": 29,
@@ -45,10 +45,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "22.85%",
+    "uptime": "22.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-28": 53,
+      "2026-03-01": 66,
+      "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -419,8 +420,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.91%",
-    "time": 719,
-    "timeDay": 694,
-    "timeWeek": 696,
-    "timeMonth": 590,
-    "timeYear": 708,
+    "time": 718,
+    "timeDay": 385,
+    "timeWeek": 612,
+    "timeMonth": 589,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2026-02-11": 59,
       "2026-02-07": 36,
@@ -456,18 +456,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "62.40%",
+    "uptime": "62.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 324,
-    "timeDay": 301,
-    "timeWeek": 348,
-    "timeMonth": 343,
+    "time": 323,
+    "timeDay": 254,
+    "timeWeek": 328,
+    "timeMonth": 337,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2026-02-28": 53,
+      "2026-03-01": 66,
+      "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -830,8 +831,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   }
 ]
