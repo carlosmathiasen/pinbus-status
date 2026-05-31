@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 806,
-    "timeDay": 822,
-    "timeWeek": 693,
-    "timeMonth": 706,
-    "timeYear": 892,
+    "timeDay": 441,
+    "timeWeek": 646,
+    "timeMonth": 697,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2025-06-04": 25,
       "2025-07-11": 24,
@@ -43,10 +43,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "21.29%",
+    "uptime": "21.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 109,
+      "2026-05-31": 122,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -417,8 +418,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   },
   {
@@ -432,10 +432,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 693,
-    "timeDay": 657,
-    "timeWeek": 506,
-    "timeMonth": 640,
+    "time": 691,
+    "timeDay": 688,
+    "timeWeek": 561,
+    "timeMonth": 641,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2025-10-31": 35,
@@ -454,18 +454,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "58.16%",
+    "uptime": "58.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 314,
-    "timeDay": 177,
-    "timeWeek": 150,
-    "timeMonth": 198,
+    "time": 313,
+    "timeDay": 135,
+    "timeWeek": 140,
+    "timeMonth": 196,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2026-05-30": 109,
+      "2026-05-31": 122,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -828,8 +829,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   }
 ]
