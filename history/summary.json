@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.83%",
     "time": 821,
-    "timeDay": 620,
-    "timeWeek": 714,
-    "timeMonth": 713,
-    "timeYear": 825,
+    "timeDay": 689,
+    "timeWeek": 765,
+    "timeMonth": 719,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-07-11": 24,
       "2025-07-15": 20,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 1197,
+      "2026-07-04": 88,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -417,8 +418,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -432,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 677,
-    "timeDay": 462,
-    "timeWeek": 488,
-    "timeMonth": 527,
-    "timeYear": 646,
+    "time": 675,
+    "timeDay": 281,
+    "timeWeek": 463,
+    "timeMonth": 519,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-18": 150,
@@ -454,18 +454,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "56.69%",
+    "uptime": "56.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 304,
-    "timeDay": 173,
-    "timeWeek": 138,
-    "timeMonth": 148,
-    "timeYear": 303,
+    "timeDay": 82,
+    "timeWeek": 139,
+    "timeMonth": 146,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-07-03": 1197,
+      "2026-07-04": 88,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -828,8 +829,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   }
 ]
