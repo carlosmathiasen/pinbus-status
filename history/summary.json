@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 840,
-    "timeDay": 860,
-    "timeWeek": 719,
-    "timeMonth": 673,
-    "timeYear": 730,
+    "time": 839,
+    "timeDay": 615,
+    "timeWeek": 695,
+    "timeMonth": 676,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-09-11": 74,
-      "2025-09-10": 8,
       "2025-10-23": 43,
       "2025-10-25": 23,
       "2025-10-31": 35,
@@ -40,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "19.79%",
+    "uptime": "19.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -51,7 +50,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 105,
+      "2026-09-10": 101,
+      "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -414,8 +414,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
-      "2025-09-11": 1440,
-      "2025-09-10": 1440
+      "2025-09-11": 1440
     }
   },
   {
@@ -430,10 +429,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 639,
-    "timeDay": 274,
-    "timeWeek": 648,
-    "timeMonth": 505,
-    "timeYear": 585,
+    "timeDay": 833,
+    "timeWeek": 667,
+    "timeMonth": 519,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-18": 150,
@@ -452,18 +451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "54.04%",
+    "uptime": "54.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 283,
-    "timeDay": 96,
-    "timeWeek": 157,
-    "timeMonth": 148,
+    "time": 282,
+    "timeDay": 174,
+    "timeWeek": 152,
+    "timeMonth": 150,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2026-09-09": 105,
+      "2026-09-10": 101,
+      "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -826,8 +826,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
-      "2025-09-11": 1440,
-      "2025-09-10": 1440
+      "2025-09-11": 1440
     }
   }
 ]
