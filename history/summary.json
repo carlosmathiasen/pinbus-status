@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 817,
-    "timeDay": 672,
-    "timeWeek": 684,
-    "timeMonth": 678,
-    "timeYear": 721,
+    "time": 813,
+    "timeDay": 609,
+    "timeWeek": 679,
+    "timeMonth": 655,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-10-23": 43,
       "2025-10-25": 23,
@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "19.72%",
+    "uptime": "19.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-14": 115,
+      "2026-09-15": 124,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -412,8 +413,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -427,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
-    "time": 638,
-    "timeDay": 889,
-    "timeWeek": 598,
-    "timeMonth": 535,
-    "timeYear": 582,
+    "time": 637,
+    "timeDay": 436,
+    "timeWeek": 574,
+    "timeMonth": 529,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-18": 150,
@@ -450,18 +450,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "53.85%",
+    "uptime": "53.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 281,
-    "timeDay": 211,
+    "timeDay": 180,
     "timeWeek": 165,
-    "timeMonth": 158,
-    "timeYear": 263,
+    "timeMonth": 160,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-09-14": 115,
+      "2026-09-15": 124,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -824,8 +825,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   }
 ]
