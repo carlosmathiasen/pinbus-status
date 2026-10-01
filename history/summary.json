@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 801,
-    "timeDay": 757,
-    "timeWeek": 793,
-    "timeMonth": 685,
+    "time": 800,
+    "timeDay": 846,
+    "timeWeek": 815,
+    "timeMonth": 698,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2025-10-23": 43,
@@ -38,10 +38,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-conexiones.pinbus.com.ico",
     "slug": "api-conexiones",
     "status": "down",
-    "uptime": "19.50%",
+    "uptime": "19.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 157,
+      "2026-10-01": 160,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -412,8 +413,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -427,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 630,
-    "timeDay": 424,
-    "timeWeek": 615,
-    "timeMonth": 611,
-    "timeYear": 582,
+    "time": 629,
+    "timeDay": 510,
+    "timeWeek": 602,
+    "timeMonth": 615,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-18": 150,
@@ -450,18 +450,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbus.pe.ico",
     "slug": "page-peru",
     "status": "down",
-    "uptime": "53.26%",
+    "uptime": "53.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 276,
-    "timeDay": 141,
-    "timeWeek": 176,
-    "timeMonth": 170,
+    "timeDay": 272,
+    "timeWeek": 181,
+    "timeMonth": 168,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2026-09-30": 157,
+      "2026-10-01": 161,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -824,8 +825,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   }
 ]
